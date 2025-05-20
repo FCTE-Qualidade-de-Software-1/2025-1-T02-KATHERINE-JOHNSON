@@ -28,7 +28,7 @@ Autor:
 |:----:|:--------:|
 | [Gabriel Henrique](https://github.com/gabrielhrlima) ||
 | [Jéssica Eveline](https://github.com/xzxjesse) ||
-| [João Gomes]() ||
+| [João Gomes](https://github.com/xgomesx) ||
 | [Matheus Henrique](https://github.com/mathonaut) ||
 | [Pedro Gustavo](https://github.com/PedroGusta) ||
 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) ||
