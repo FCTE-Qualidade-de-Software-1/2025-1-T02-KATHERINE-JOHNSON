@@ -30,15 +30,15 @@
 - **Feedback dos Usuários**: A coleta de opiniões será feita por meio de entrevistas, questionários ou formulários de avaliação, em que os usuários podem dar sugestões sobre o que gostaram e o que pode ser melhorado no aplicativo.
 
 ## Objetivos de desenvolvimento sustentável
-- ODS 2: Fome zero e agricultura sustentável.
-- ODS 8: Trabalho decente e crescimento econômico.
-- ODS 10: Redução das desigualdades
+- **ODS 2**: Fome zero e agricultura sustentável.
+- **ODS 8**: Trabalho decente e crescimento econômico.
+- **ODS 10**: Redução das desigualdades
 
 ## Referências
 - ISO/IEC 25000:2014. Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Overview and vocabulary. Geneva, 2014.
 - AGROMART. Repositório do AgroMart. Disponível em: https://github.com/AgroMart. Acesso em: 15 abr. 2025.
 - RAMOS, Cristiane Soares. Slides e aulas da disciplina FGA0315 - Qualidade de Software 1 - T02 (2025.1 - 24T23). Universidade de Brasília, 2025. E-mail: cristianesramos@unb.br.
-- OPENAI. ChatGPT, modelo de linguagem baseado em IA (versão GPT-4). Disponível em: https://www.openai.com. Acesso em: 15 abr. 2025.
+- OPENAI. ChatGPT, modelo de linguagem baseado em IA (versão GPT-4). Disponível em: https://www.openai.com. Acesso em: 15 abr. 2025. 
 
 ## Histórico de Versões
 
@@ -46,5 +46,4 @@
 
 | Versão |       Descrição        |                                             Autor(es)                                             |    Data    |                                           Revisor                                            | Data de revisão |
 | :----: | :--------------------: | :-----------------------------------------------------------------------------------------------: | :--------: | :------------------------------------------------------------------------------------------: | :-------------: |
-|  1.0   | Modelagem de Processos | [Carlos Henrique](https://github.com/carlinn1), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Jesse Eveline](https://github.com/xzxjesse) | 15/01/2025 | [Pedro Gustavo](https://github.com/PedroGusta) |   15/01/2025    |
-| 1.1 | Remodelagem do diagrama de desenvolvimento | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 28/01/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 29/01/2025 | 
+|  1.0   | Requisitos de Avaliação | [Jesse Eveline](https://github.com/xzxjesse) | 21/05/2025 | | |
