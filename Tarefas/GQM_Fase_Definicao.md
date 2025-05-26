@@ -109,6 +109,8 @@ Por fim, o AgroMart pretende digitalizar o comércio rural, promovendo o escoame
 
 ![Objetivos de Medição](img/Diagrama%20GQM.png)
 
+## Tabela de Contribuição
+
 | Matrícula |                Nome                | Contribuição (%) |
 | :-------: | :--------------------------------: | :--------------: |
 | 221022284 |     Gabriel Henrique R de Lima     |      16,66       |
