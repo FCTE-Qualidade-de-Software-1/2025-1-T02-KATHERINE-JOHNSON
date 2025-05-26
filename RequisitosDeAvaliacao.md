@@ -1,3 +1,9 @@
+| Disciplina | FGA0315 - Qualidade de Software 1    |
+| :--------- | :----------------------------------- |
+| Turma      | 2025-1 (T02)                         |
+| Profa.     | Cristiane Ramos                      |
+| Tema       | Requisitos de Avaliação |
+
 # Requisitos de Avaliação
 
 ## Principais solicitantes
@@ -39,6 +45,17 @@
 - AGROMART. Repositório do AgroMart. Disponível em: https://github.com/AgroMart. Acesso em: 15 abr. 2025.
 - RAMOS, Cristiane Soares. Slides e aulas da disciplina FGA0315 - Qualidade de Software 1 - T02 (2025.1 - 24T23). Universidade de Brasília, 2025. E-mail: cristianesramos@unb.br.
 - OPENAI. ChatGPT, modelo de linguagem baseado em IA (versão GPT-4). Disponível em: https://www.openai.com. Acesso em: 15 abr. 2025. 
+
+## Tabela de Contribuição
+
+| Matrícula |                Nome                | Contribuição (%) |
+| :-------: | :--------------------------------: | :--------------: |
+| 221022284 |     Gabriel Henrique R de Lima     |      13,25       |
+| 221022319 |   Jéssica Eveline Saraiva Araújo   |      30,00       |
+| 221022328 | João Gabriel Gomes Carvalho Soares |      13,25       |
+| 211029666 |    Matheus Henrique Dos Santos     |      13,25       |
+| 221008605 |   Pedro Gustavo de Souza Santos    |      13,25       |
+| 211043763 |       Ruan Sobreira Carvalho       |      17,00       |
 
 ## Histórico de Versões
 
