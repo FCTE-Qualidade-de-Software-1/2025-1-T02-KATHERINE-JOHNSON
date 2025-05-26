@@ -111,12 +111,12 @@ Por fim, o AgroMart pretende digitalizar o comércio rural, promovendo o escoame
 
 | Matrícula |                Nome                | Contribuição (%) |
 | :-------: | :--------------------------------: | :--------------: |
-| 221022284 |     Gabriel Henrique R de Lima     |                  |
-| 221022319 |   Jéssica Eveline Saraiva Araújo   |                  |
-| 221022328 | João Gabriel Gomes Carvalho Soares |                  |
-| 211029666 |    Matheus Henrique Dos Santos     |                  |
-| 221008605 |   Pedro Gustavo de Souza Santos    |                  |
-| 211043763 |       Ruan Sobreira Carvalho       |                  |
+| 221022284 |     Gabriel Henrique R de Lima     |      16,66       |
+| 221022319 |   Jéssica Eveline Saraiva Araújo   |      16,66       |
+| 221022328 | João Gabriel Gomes Carvalho Soares |      16,66       |
+| 211029666 |    Matheus Henrique Dos Santos     |      16,66       |
+| 221008605 |   Pedro Gustavo de Souza Santos    |      16,66       |
+| 211043763 |       Ruan Sobreira Carvalho       |      16,66       |
 
 ## Histórico de Versões
 
