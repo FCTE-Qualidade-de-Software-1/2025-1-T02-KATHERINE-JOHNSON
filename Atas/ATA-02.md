@@ -6,9 +6,9 @@
 
 | Data | Hora de Início Previsto | Hora de Início Realizado | Hora de Término Previsto | Hora de Término Realizado | Local | Redator | Projeto | Revisor |
 |------------|--------------------------|--------------------------|--------------------------|---------------------------|-------------|-------------|--------------|--------|
-| 19/05/2025 | 15:00 | 15:00 | 16:00 | 16:00 | sala de aula | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | Agromart |  |
+| 26/05/2025 | 15:00 | 15:00 | 16:00 | 16:00 | sala de aula | [Pedro Gustavo](https://github.com/PedroGusta) | Agromart |  |
 
-Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
+Autor: [Pedro Gustavo](https://github.com/PedroGusta)
 
 ### Participantes: 
 
@@ -18,20 +18,20 @@ Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 |:----:|:--------:|
 | [Gabriel Henrique](https://github.com/gabrielhrlima) | sim |
 | [Jéssica Eveline](https://github.com/xzxjesse) | sim |
-| [João Gomes](https://github.com/xgomesx) | não |
+| [João Gomes](https://github.com/xgomesx) | sim |
 | [Matheus Henrique](https://github.com/mathonaut) | sim |
 | [Pedro Gustavo](https://github.com/PedroGusta) | sim |
 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | sim |
 
-Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
+Autor: [Pedro Gustavo](https://github.com/PedroGusta)
 
 ## 2. Pauta
 
-* Definir tarefas a serem realizadas ao decorrer da semana.
+* Acompanhamento das tarefas e definição de novas responsabilidades.
 
 ## 3. Pendências Anteriores
 
-* Nenhuma pendência anterior.
+* Revisão das tarefas da reunião anterior.
 
 ## 4. Assuntos Tratados
 
@@ -39,29 +39,31 @@ Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 | N° | Descrição | Tipo   |
 |----|-----------|--------|
-| 01 | atribuição de tarefas aos membros da equipe | decisão |
+| 01 | Atribuição de novas tarefas e revisões | decisão |
 
-Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
+Autor: [Pedro Gustavo](https://github.com/PedroGusta)
 
 ## 5. Próxima Reunião
 
-* A próxima reunião deverá ocorrer no dia 21/05/2025 de forma presencial em sala de aula.
+* A próxima reunião deverá ocorrer no dia 28/05/2025 de forma presencial em sala de aula.
 
 ## 6. Compromissos
-
-* Registrar os compromissos acordados durante a reunião (identificados como pendências nos assuntos tratados), identificando o responsável e a data acordada para a conclusão da atividade.
 
 **Tabela 4:** Compromissos com data e o nome do responsável.
 
 | N° | Compromisso | Responsável | Data |
 |----|-------------|-------------|------|
-| 01 | criação do modelo de ata padrão | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 21/05/2025 |
-| 02 | registrar ata da primeira reunião | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 21/05/2025 |
-| 03 | criação de documento com padrão de commit | [Jéssica Eveline](https://github.com/xzxjesse) | 21/05/2025 |
-| 04 | criação da README | [João Gomes](https://github.com/xgomesx) | 21/05/2025 |
-| 05 | ajustes no GQM | [Gabriel Henrique](https://github.com/gabrielhrlima), [Matheus Henrique](https://github.com/mathonaut), [Pedro Gustavo](https://github.com/PedroGusta) | 21/05/2025 | 
+| 01 | Criação da ata da reunião | [Pedro Gustavo](https://github.com/PedroGusta) | 26/05/2025 |
+| 02 | Finalização do GQM | [Gabriel Henrique](https://github.com/gabrielhrlima)  | 28/05/2025 |
+| 03 | Revisão do GQM | [Jéssica Eveline](https://github.com/xzxjesse) | 28/05/2025 |
+| 04 | Finalização dos requisitos de avaliação | [Jéssica Eveline](https://github.com/xzxjesse) | 28/05/2025 |
+| 05 | Revisão dos requisitos de avaliação | [João Gomes](https://github.com/xgomesx) | 28/05/2025 |
+| 06 | Finalização dos recursos | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 28/05/2025 |
+| 07 | Revisão dos recursos | [Matheus Henrique](https://github.com/mathonaut) | 28/05/2025 |
+| 08 | Atualização da README | [João Gomes](https://github.com/xgomesx) | 28/05/2025 |
+| 09 | Revisão da ata anterior | [Pedro Gustavo](https://github.com/PedroGusta) | 28/05/2025 |
 
-Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
+Autor: [Pedro Gustavo](https://github.com/PedroGusta)
 
 ## Referências
 
@@ -73,4 +75,4 @@ Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-| 1.0 | Versão inicial da ata padrão | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 20/05/2025 | [Pedro Gustavo](https://github.com/PedroGusta) | 26/05/2025 |
+| 1.0 | Versão inicial da ata | [Pedro Gustavo](https://github.com/PedroGusta) | 26/05/2025 | | |
