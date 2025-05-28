@@ -11,7 +11,7 @@ Como parte do escopo da disciplina, está sendo realizada a análise do sistema 
 
 | <img src="https://github.com/gabrielhrlima.png" width="150px"> | <img src="https://github.com/xzxjesse.png" width="150px"> | <img src="https://github.com/xgomesx.png" width="150px" > | <img src="https://github.com/mathonaut.png" width="150px"> | <img src="https://github.com/PedroGusta.png" width="150px"> | <img src="https://github.com/Ruan-Carvalho.png" width="150px"> |
 | :----------------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------------------: | :-------------------------------------------------------: |
-| [Gabriel Henrique](https://github.com/gabrielhrlima)        | [Jesse Eveline](https://github.com/xzxjesse)          | [João Gabriel Gomes ](https://github.com/xgomesx)        | [Matheus Henrique](https://github.com/mathonaut)            | [Pedro Gustavo](https://github.com/PedroGusta)          |  [Ruan Carvalho](https://github.com/Ruan-Carvalho)           |
+| [Gabriel Henrique](https://github.com/gabrielhrlima)        | [Jessica Eveline](https://github.com/xzxjesse)          | [João Gabriel Gomes ](https://github.com/xgomesx)        | [Matheus Henrique](https://github.com/mathonaut)            | [Pedro Gustavo](https://github.com/PedroGusta)          |  [Ruan Carvalho](https://github.com/Ruan-Carvalho)           |
 
 
 # Historico de versões
