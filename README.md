@@ -13,3 +13,10 @@ Como parte do escopo da disciplina, está sendo realizada a análise do sistema 
 | :----------------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------------------: | :-------------------------------------------------------: |
 | [Gabriel Henrique](https://github.com/gabrielhrlima)        | [Jesse Eveline](https://github.com/xzxjesse)          | [João Gabriel Gomes C S](https://github.com/xgomesx)        | [Matheus Henrique](https://github.com/mathonaut)            | [Pedro Gustavo](https://github.com/PedroGusta)          |  [Ruan Carvalho](https://github.com/Ruan-Carvalho)           |
 
+
+# Historico de versões
+**Tabela 2** - Histórico de versões.
+
+| Versão | Descrição                          | Autor       | Data       | Revisor       | Data de revisão |
+|--------|------------------------------------|-------------|------------|----------------|------------------|
+| 1.0    | Versão inicial da descrição do projeto | [João gabriel](#) | 07/01/2025 | [Jesse Eveline](#) | 15/01/2025       |
