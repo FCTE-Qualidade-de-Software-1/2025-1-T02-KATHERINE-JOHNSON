@@ -33,7 +33,7 @@ Os tipos de commit utilizados no projeto são:
 - Inicie a descrição com letra maiúscula e finalize com um ponto final.
 - (Opcional) Detalhe mais a fundo o que foi feito na descrição do commit.
 
-**Exemplo:** `git commit -m "docs: Revisão da metodologia."`
+**Exemplo:** `git commit -m "docs: Revisa a metodologia."`
 
 ## Branches
 
@@ -55,15 +55,16 @@ As branches secundárias são criadas temporariamente para atender demandas espe
 
 - **Origem**: Branches de código devem ser criadas a partir da branch **develop**.
 - **Nome**: Devem começar com o prefixo `dev:` seguido de uma descrição clara e objetiva da tarefa.  
-  **Exemplos**:  
-  - `dev:feature-pomodoro`  
+  **Exemplos**:
+  - `dev:feature-pomodoro`
   - `dev:fix-login-bug`
 
 #### 2. Atualização de Documentação
+
 - **Origem**: Branches relacionadas à documentação devem ser criadas a partir da branch **docs**.
 - **Nome**: Devem começar com o prefixo `doc:` seguido de uma descrição clara da tarefa.  
-  **Exemplos**:  
-  - `doc:update-readme`  
+  **Exemplos**:
+  - `doc:update-readme`
   - `doc:guide-setup`
 
 ### Decisão de Padronização
@@ -78,6 +79,6 @@ Durante a reunião da equipe, ficou definido que branches de código devem ser c
 
 <font size="3"><p style="text-align: left">**Tabela 1** - Histórico de versões.</p></font>
 
-| Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 1.0 | Criação do documento de padronização de commits e branches | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 27/05/2025 |  |  |
+| Versão |                         Descrição                          |                     Autor(es)                     |    Data    |                   Revisor(es)                    | Data de Revisão |
+| :----: | :--------------------------------------------------------: | :-----------------------------------------------: | :--------: | :----------------------------------------------: | :-------------: |
+|  1.0   | Criação do documento de padronização de commits e branches | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 27/05/2025 | [Matheus Henrique](https://github.com/mathonaut) |   27/05/2025    |
