@@ -6,7 +6,7 @@
 
 | Data | Hora de Início Previsto | Hora de Início Realizado | Hora de Término Previsto | Hora de Término Realizado | Local | Redator | Projeto | Revisor |
 |------------|--------------------------|--------------------------|--------------------------|---------------------------|-------------|-------------|--------------|--------|
-| 19/05/2025 | 15:00 | 15:00 | 16:00 | 16:00 | sala de aula | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | Agromart |  |
+| 19/05/2025 | 15:00 | 15:00 | 16:00 | 16:00 | sala de aula | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | Agromart | [Pedro Gustavo](https://github.com/PedroGusta) |
 
 Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
