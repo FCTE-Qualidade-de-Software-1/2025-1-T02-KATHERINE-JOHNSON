@@ -19,4 +19,4 @@ Como parte do escopo da disciplina, está sendo realizada a análise do sistema 
 
 | Versão | Descrição                          | Autor       | Data       | Revisor       | Data de revisão |
 |--------|------------------------------------|-------------|------------|----------------|------------------|
-| 1.0    | Descrição do projeto  | [João gabriel](#) | 27/05/2025 |  | 27/05/2025       |
+| 1.0    | Descrição do projeto  | [João gabriel](#) | 27/05/2025 |  |        |
