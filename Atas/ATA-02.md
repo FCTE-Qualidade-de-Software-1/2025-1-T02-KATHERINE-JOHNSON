@@ -6,7 +6,7 @@
 
 | Data       | Hora de Início Previsto | Hora de Início Realizado | Hora de Término Previsto | Hora de Término Realizado | Local        | Redator                                        | Projeto  | Revisor |
 | ---------- | ----------------------- | ------------------------ | ------------------------ | ------------------------- | ------------ | ---------------------------------------------- | -------- | ------- |
-| 26/05/2025 | 15:00                   | 15:00                    | 16:00                    | 16:00                     | sala de aula | [Pedro Gustavo](https://github.com/PedroGusta) | Agromart |         |
+| 26/05/2025 | 15:00                   | 15:00                    | 16:00                    | 16:00                     | sala de aula | [Pedro Gustavo](https://github.com/PedroGusta) | Agromart |     [Matheus Henrique](https://github.com/mathonaut)    |
 
 Autor: [Pedro Gustavo](https://github.com/PedroGusta)
 
