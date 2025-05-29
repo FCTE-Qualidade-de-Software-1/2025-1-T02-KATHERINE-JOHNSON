@@ -1,0 +1,28 @@
+site_name: KHATERINE-JOHNSON
+
+nav:
+  - Introdução: "index.md"
+  - Atas:
+      - Ata 01: "Atas/Ata_01.md"
+      - Ata 02: "Atas/Ata_02.md"
+  - Recursos:
+      - Ata: "Recursos/Ata_Padrao.md"
+      - Padrões de Colaboração: "Recursos/Padroes_De_Colaboracao.md"
+  - Tarefas:
+      - GQM Fase de Definição: "Tarefas/GQM_Fase_Definicao.md"
+      - Requisitos de Avaliação: "Tarefas/Requisitos_De_Avaliacao.md"
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: light
+      toggle:
+        icon: material/weather-night
+        name: Mudar para o modo escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para o modo claro
