@@ -6,7 +6,7 @@
 
 | Data       | Hora de Início Previsto | Hora de Início Realizado | Hora de Término Previsto | Hora de Término Realizado | Local        | Redator                                        | Projeto  | Revisor |
 | ---------- | ----------------------- | ------------------------ | ------------------------ | ------------------------- | ------------ | ---------------------------------------------- | -------- | ------- |
-| 11/06/2025 | 15:30                   | 15:30                    | 16:00                    | 16:00                     | sala de aula | [João Gabriel](https://github.com/xgomesx) | Agromart |     [Jessica Eveline](https://github.com/xzxjesse)    |
+| 11/06/2025 | 15:30                   | 15:30                    | 16:00                    | 16:00                     | sala de aula | [João Gabriel](https://github.com/xgomesx) | Agromart |         |
 
 Autor: [João Gabriel](https://github.com/xgomesx)
 
@@ -67,7 +67,7 @@ Autor: [João Gabriel](https://github.com/xgomesx)
 
 | Versão |       Descrição       |                     Autor                      |    Data    |                     Revisor                      | Data de revisão |
 | :----: | :-------------------: | :--------------------------------------------: | :--------: | :----------------------------------------------: | :-------------: |
-|  1.0   | Versão inicial da ata | [João Gabriel](https://github.com/xgomesx) | 11/06/2025 | https://github.com/xzxjesse |       |
+|  1.0   | Versão inicial da ata | [João Gabriel](https://github.com/xgomesx) | 11/06/2025 | |       |
 
 
 
